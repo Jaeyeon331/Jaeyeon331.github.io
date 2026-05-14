@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 About me
-I'm a Ph.D. student in the Big Data Lab at Inha university, advised by Prof. Dong-Wan Choi.
+I'm a Ph.D. student in the Big Data Lab at Inha University, advised by Prof. Dong-Wan Choi.
 I received my B.S. and M.S. degrees from Inha University in 2023 and 2025, respectively.
 
-My research focuses on developing efficient AI models for real-world deployment, particularly by accelerating the inference time of large models, with the goal of brining AI closer to practical everyday use.
+My research focuses on developing efficient AI models for real-world deployment, particularly by accelerating the inference time of large-scale models, with the goal of bringing AI closer to practical everyday use.
 
 Related keywords: Vision-Language Models, Model Efficiency, Token Pruning
 
