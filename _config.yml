@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jaeyeon Lee"
-  avatar           : "images/photo.jpg"
+  avatar           : "images/photo.JPG"
   bio              : "Ph.D. Student"
   location         : "Incheon, Korea"
   employer         :
