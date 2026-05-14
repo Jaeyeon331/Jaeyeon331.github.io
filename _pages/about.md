@@ -26,15 +26,20 @@ My research focuses on developing efficient AI models for real-world deployment,
 
 # 📝 International Publications
 
-- Looking at Your Photo, What Comes to Mind? Personalized Memory Internalization for Dementia Reminiscence, Shunjie Wen, Kyung-Hwan Lee, Gimoon Lee, Seongsoo Heo, **Jaeyeon Lee**, Sangyeob Shin, Gyuwon Moon, Jiwoong Kim, Dong-Wan Choi, **IJCAI Demo Track, 2026**
+- Shunjie Wen, Kyung-Hwan Lee, Gimoon Lee, Seongsoo Heo, **Jaeyeon Lee**, Sangyeob Shin, Gyuwon Moon, Jiwoong Kim, Dong-Wan Choi
+Looking at Your Photo, What Comes to Mind? Personalized Memory Internalization for Dementia Reminiscence. **_IJCAI Demo Track, 2026_**
 
-- PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation, Hyemin Lim, Jaeyeon Lee, Dong-Wan Choi, **JAIR 2026**
+- Hyemin Lim, **Jaeyeon Lee**, Dong-Wan Choi
+PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation. **_JAIR 2026_**
 
-- Lossless Token Merging Even Without Fine-Tuning in Vision Transformers, **Jaeyeon Lee**, Dong-Wan Choi, **ECAI 2025**
+- **Jaeyeon Lee**, Dong-Wan Choi
+Lossless Token Merging Even Without Fine-Tuning in Vision Transformers. **_ECAI 2025_**
 
 
 # 📝 Domestic Publications
 
-- Zero-Shot Online Object Identification Using Pre-Trained DeiT and DINO Models, **KSC 2025**
+- **Jaeyeon Lee**, Ji-Woong Kim, Dong-Wan Choi
+Zero-Shot Online Object Identification Using Pre-Trained DeiT and DINO Models. **_KSC 2025_**
 
-- A Token Selection Method for Effective Token Pruning in Vision Transformers, Jaeyeon Lee, Dong-Wan Choi, **Journal of KIISE 2024**
+- **Jaeyeon Lee**, Dong-Wan Choi
+A Token Selection Method for Effective Token Pruning in Vision Transformers. **_Journal of KIISE 2024_**
