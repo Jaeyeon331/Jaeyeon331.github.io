@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About me
+# 🔥 About me
 I'm a Ph.D. student in the Big Data Lab at Inha university, advised by Prof. Dong-Wan Choi.
 I received my B.S. and M.S. degrees from Inha University in 2023 and 2025, respectively.
 
