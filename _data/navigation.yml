@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#international-publications"
+    url: "/#publications"
 
   - title: "Educations"
     url: "/#educations"
