@@ -39,7 +39,7 @@ Related keywords: Vision-Language Models, Model Efficiency, Token Pruning
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2025.03 - (now)*, Ph.D., Artificial Intelligence, Inha University, Korea.
+- *2025.03 - Present*, Ph.D., Artificial Intelligence, Inha University, Korea.
 - *2023.03 - 2025.02*, M.S., Artificial Intelligence, Inha University, Korea. 
 - *2017.03 - 2023.02*, B.S., Computer Engineering, Inha University, Korea.
 
