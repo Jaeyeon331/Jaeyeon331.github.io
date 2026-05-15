@@ -27,7 +27,7 @@ Related keywords: Vision-Language Models, Model Efficiency, Token Pruning
 
 <span class='anchor' id='publications'></span>
 # 📝 International Publications
-- Shunjie Wen, Kyung-Hwan Lee, Gimoon Lee, Seongsoo Heo, **Jaeyeon Lee**, Sangyeob Shin, Gyuwon Moon, Jiwoong Kim and Dong-Wan Choi, "Looking at Your Photo, What Comes to Mind? Personalized Memory Internalization for Dementia Reminiscence", **_IJCAI Demo Track, 2026_**
+- Shunjie Wen, Kyung-Hwan Lee, Gimoon Lee, Seongsoo Heo, **Jaeyeon Lee**, Sangyeob Shin, Gyuwon Moon, Jiwoong Kim and Dong-Wan Choi, "Looking at Your Photo, What Comes to Mind? Personalized Memory Internalization for Dementia Reminiscence", **_IJCAI Demo Track 2026_**
 - Hyemin Lim, **Jaeyeon Lee** and Dong-Wan Choi, "PGB: One-Shot Pruning for BERT via Weight Grouping and Permutation", **_JAIR 2026_**
 - **Jaeyeon Lee** and Dong-Wan Choi, "Lossless Token Merging Even Without Fine-Tuning in Vision Transformers", **_ECAI 2025_**
 
